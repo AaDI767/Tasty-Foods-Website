@@ -23,3 +23,6 @@ img.slide {
     border: 1px solid grey;
     margin-bottom: 10px;
 }
+.card-right {
+    margin-right: 110px;
+}
